@@ -1,0 +1,3 @@
+R01:
+Initial design, no changes.
+For reference, the input buttons from the MCN base have been removed. The LED indicators are the same.
