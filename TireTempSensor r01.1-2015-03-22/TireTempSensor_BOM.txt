@@ -1,0 +1,50 @@
+Qty-1	Description	Category	Manufacturer	Mfg Part	Vendor	Vendor Part	Cost	Designator
+1	"DIP switch, 0.05"""" pitch, 2pos, 50V"	Switches	CTS Electrocomponents	218-2LPST	DK	CT2182LPST-ND	1.06	SW3
+1	Micro-Fit header, 6pos, RA, SMD, with solder tabs	Connectors	Molex	43045-0609	DK	WM1827CT-ND	3.2	X3
+1	Schottky rectifier, 30V, 1A, SMA	Passives	Diodes Inc	B130-13-F	DK	B130-FDICT-ND	0.43	D1
+4	Inductor, Chip, 60ohm, 1.5A, 0603	Passives	Taiyo Yuden	BKP1608HS600-T	DK	587-1928-1-ND	0.047	L2, L3, L4, L5
+1	Diode, Zener, 3 V, 200 mW, SOD-323	Passives	ON Semiconductor	MM3Z3V0T1G	NW	09R9502	0.017	D6
+1	Diode, Schottky, 40V, 500 mA, SOD-123	Passives	STMICROELECTRONICS	STPS0560Z	NW	89K1573	0.762	D2
+1	LED, Green, 0603, 10mcd	LEDs	Osram	LGQ971	NW	05M0493	0.054	LED3
+1	LED, Green, 0603, 10mcd	LEDs	Osram	LGQ971	NW	05M0493	0.054	LED2
+2	Capacitor, .01uF, 50V, 10%, X7R, 0603	Passives	Murata	GRM188R71H103KA01D	NW	19X1714	0.013	C10, C26
+8	Capacitor, Ceramic, .1uF 25V 10% 0603 X7R	Passives	TDK	C1608X7R1E104K080AA	DK	445-1316-1-ND	0.011	C8, C11, C12, C13, C19, C23, C24, C25
+1	Capacitor, Ceramic, .1uF 25V 10% 0603 X7R	Passives	TDK	C1608X7R1E104K080AA	DK	445-1316-1-ND	0.011	C32
+1	Capacitor, Ceramic, 1 uF, 50V, X7R, 10%, 1210	Passives	Murata	GRM32RR71H105KA01L	NW	97K0677	0.248	C29
+2	Resistor, 1 kohm 100 mW, 1%, Thick Film, 0603	Passives	Panasonic	ERJ-3EKF1001V	NW	64R5308	0.012	R22, R23
+1	Resistor, 10k ohm 100 mW, 5%, 100ppm, 0603	Passives	Yageo	RC0603JR-1010KL	NW	68R0215	0.008	R6
+1	Resistor, 1 kohm 100 mW, 1%, Thick Film, 0603	Passives	Panasonic	ERJ-3EKF1001V	NW	64R5308	0.012	R18
+7	Capacitor, Ceramic, 2.2UF, 10%, 25V, 0603, X5R	Passives	Murata	GRM188R61E225KA12D	NW	13T1193	0.107	C1, C2, C3, C4, C5, C6, C17
+4	Resistor, 2.2k ohm, Thick Film, 100 mW, 1%, 0603	*	Yageo	RC0603FR-102K2L	NW	68R0123	*	R4, R5, R7, R8
+1	Capacitor, Ceramic, 4.7 nF, 50V, X7R, 10%, 0603	Passives	Murata	GRM188R71H472KA01D	NW	38K1673	0.006	C18
+1	Capacitor, Ceramic, 4.7 uF 25V, 10%, X5R, 0805	Passives	Multicomp	MC0805X475K250CT	NW	06R4181	0.037	C14
+1	Resistor, 4.7k ohm 1%, 100 mW, 100ppm, 0603	*	Panasonic	ERJ-3EKF4701V	DK	P4.70KHCT-ND	*	R11
+1	Resistor, 5.6 kohm, 100 mW, 1%, 0603	Passives	Panasonic	ERJ-3EKF5601V	NW	64R5354	0.096	R16
+3	Capacitor, Ceramic, 10 uF 6.3V, 20%, 0603, X5R	*	Murata	GRM188R60J106ME47D	NW	24R6334	*	C16, C21, C22
+3	Resistor, 10k ohm 100 mW, 5%, 100ppm, 0603	Passives	Yageo	RC0603JR-1010KL	NW	68R0215	0.008	R1, R10, R46
+1	Inductor, 18 uH, 1.5 A, unshielded, 15%, 8012	Passives	Bourns	SDR0604-180YL	DK	SDR0604-180YLCT-ND	0.47	L6
+2	Capacitor, Ceramic, 22 uF, 6.3V, X5R, 20%, 0805	22 uF	Murata	GRM21BR60J226ME39L	NW	24R6338	0.091	C30, C31
+1	Resistor, 36 kohm, 1%, 100 mW, 0603	Passives	Yageo	RC0603FR-0736KL	DK	311-36.0KHRCT-ND	0.0108	R47
+2	Resistor, 60.4 ohm, 100 mW, 1%, 0603	Passives	Panasonic	ERJ-3EKF60R4V	NW	65T8495	0.096	R17, R19
+4	Resistor, 82 ohm, 125 mW, 5%, 0805	Passives	Panasonic	ERJ-6GEYJ820V	NW	53W4971	0.096	R14, R15, R36, R37
+1	Resistor, 200k, 100mW, 0603, 1%	Passives	Panasonic	ERJ-3EKF2003V	NW	65T8368 	0.096	R21
+1	Resistor, 300 ohm, 5% 0603	*	Panasonic	ERJ-3GEYJ301V	DK	P300GCT-ND	*	R20
+1	Connector, USB, MiniB. SMT RT	Connectors	TE Connectivity	1734035-2	DK	A31727CT-ND	0.872	X2
+1	Resistor, Thick Film, 20 kohm, 100 mW, 1%, 0603	Passives	Vishay Dale	RC0603FR-0720KL	NW	68R0068	0.017	R44
+1	Resistor, Thick Film, 20 kohm, 100 mW, 1%, 0603	Passives	Vishay Dale	RC0603FR-0720KL	NW	68R0068	0.017	R43
+1	Choke, common mode, 100 uH, 500 mA, 25%	Passives	Bourns Inc	DR331-104AE	NW	29T3649	0.32	L7
+1	Lepton Camera Socket	*	Molex	105028-1001	Mouser	538-105028-1001	*	U$8
+1	IC, USB FIFO, SSOP-28	*	FTDI	FT245RL	NW	91K9920	*	U$12
+1	LED, Green, 0603, 10mcd	LEDs	Osram	LGQ971	NW	05M0493	0.054	LED0
+1	"0.05"""" male pin header, 2 rows, 14 positions (TI JTAG) - surface mount, vertical"	Connectors	Samtec	FTS-107-01-F-DV	NW	56P3763	0.9	X6
+1	IC, DC-DC Conv, Buck, 42 Vin, 1.25 MHz, SOT23-6	ICs	Texas Instruments	LMR14206XMKE/NOPB	NW	76T5004	2.72	IC2
+1	IC, LDO VOLT REG, 3.3V, 0.5A, SOT-223-5	ICs	Texas Instruments	LP38693MP-3.3/NOPB	NW	41K7496	1.53	IC3
+1	IC, Bidirectional Level Translator 8 channel, TSSOP-20	ICs	Texas Instruments	LSF0108PWR	NW	74X9873	1.68	U$20
+1	IC, LDO Volt Reg, 2.8V, .15A, SOT-23-5	ICs	Micrel	MIC5255-2.8YD5 TR	DK	576-2818-1-ND	1.14	U$17
+1	IC, LDO Volt Reg, 1.2V, .15A, SOT-23-5	ICs	Micrel	MIC5268-1.2YM5 TR	NW	26R6811	0.92	U$18
+1	Oscillator, 25MHz, 1.6V-5.5V, 5x3.2mm SMD	Oscillator	AVX	KC5032A25.0000CM0E00	DK	1253-1043-1-ND	1.46	U1
+2	TVS DIODE 30VWM 48.4VC SMB	Passives	Littelfuse	SMBJ30CA	DK	SMBJ30CALFCT-ND	0.423	D3, D4
+1	IC, CAN TX/RX, 1 MBps, 5.5V, 8-SOIC	ICs	Texas Instruments	SN65HVD1050D	NW	70K4439	1.32	IC4
+1	IC, Buffer, 2-bit, non-invert, open drain, SOT-23-6	ICs	Texas Instruments	SN74LVC2G07DBVR	DK	296-13494-1-ND	0.59	IC5
+1	IC, MCU, C2000 piccolo, LQFP80	ICs	Texas Instruments	TMS320F28035PNT	DK	296-32764-ND	12.38	IC1
+1	LED, Yellow, 0603, 14mcd	LEDs	Lumex	SML-LX0603YW-TR	NW	75K1443	0.152	LED1
